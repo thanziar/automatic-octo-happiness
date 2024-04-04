@@ -1,4 +1,4 @@
 # automatic-octo-happiness
-Blog made by me
+Blog made by Thanzia
 
 ## Introduction
